@@ -1,9 +1,6 @@
-// import Image from "next/image";
-
 import Search_Component from "@/components/search";
 import Card from "@/components/card";
 import IPerson from "@/types/data";
-import Modal from "@/components/modal";
 import Not_Found from "@/components/not_found";
 
 export default async function Home({

@@ -2,7 +2,6 @@
 import IPerson from "@/types/data";
 import React, { useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
 import Modal from "@/components/modal";
 export default function Card({
   item,

@@ -1,5 +1,4 @@
 import IPerson from "@/types/data";
-import Image from "next/image";
 
 export default function Info({ item }: { item: IPerson }) {
   return (
